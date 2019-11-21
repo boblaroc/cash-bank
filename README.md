@@ -1,9 +1,9 @@
 # Cash Bank
 
 Implementation of a simple banking application that allow user to:
-	* create multiple customers
-	* deposit and withdraw funds for a specific user
-	* retrieve total funds held by bank
+* create multiple customers
+* deposit and withdraw funds for a specific user
+* retrieve total funds held by bank
 	
 ## Architecture Notes
 
